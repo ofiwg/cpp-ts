@@ -1,7 +1,7 @@
 **Document number:**	Nnnnn=yy-nnnn  
 **Date:**	yyyy-mm-dd  
 **Project:** HPC Fabrics Proposal  
-**Reply-to:**	Your name and email address; list multiple authors if applicable. It is OK to obfuscate the address like this: "Jane Proposer <jane at somewhere dot com>
+**Reply-to:**	Your name and email address; list multiple authors if applicable. Obfuscate the address like this: "Jane Proposer <jane at somewhere dot com>
 
 ## Table of Contents
 
