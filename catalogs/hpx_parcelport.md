@@ -17,5 +17,6 @@ is used
 
 this document will contain a more contextual analysis describing the hpx
 parcelport's design and implementation. this document will attempt to provide
-a more general perspective on the contents included in the csv file.
+a more general perspective, or analysis, that ties together contents included
+in the csv file.
 
