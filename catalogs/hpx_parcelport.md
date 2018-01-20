@@ -14,3 +14,8 @@ parcelport
 * line - the line number referencing the libfabric primitive's instantiation
 * description - a quick explanation of how the libfabric primitive's instance
 is used
+
+this document will contain a more contextual analysis describing the hpx
+parcelport's design and implementation. this document will attempt to provide
+a more general perspective on the contents included in the csv file.
+
